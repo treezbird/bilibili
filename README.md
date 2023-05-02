@@ -45,7 +45,7 @@
 * 喷官方营销反噬的，官方一共28个账号，发了没几个视频，播放量也少，到你嘴里成了营销，反噬。
   * B站搜淄博烧烤的推荐词条都在[这里](https://github.com/treezbird/bilibili/tree/main/output/search_suggestions)你看看哪一个是鼓吹烧烤卷饼美味来忽悠人去淄博的。
 
-  * 无论官媒还是B站都是在良性引导甚至是让人们理智出行，怎么就成了官方营销？剩下的1000多up，几万人讨论，都是公务员是吗？就不能是自来水？
+  * 无论官媒还是B站都是在良性引导甚至是让人们理智出行，怎么就成了官方营销？剩下的1000多up，几万人讨论，都是公务员是吗？就不能是自来水？官方确实无法做到尽善尽美，但是去不因噎废食，努力做到更好才是该做的。
 
   * 所以到底是谁不知全貌就在拾人牙慧的人云亦云，甚至还觉得自己是独立思考。被阴谋论**远程牧羊**还沾沾自喜的是不是自己。[国外也在夸](https://github.com/treezbird/bilibili/blob/main/reference/google.JPG)，就你站出来理中客了是不。
   
@@ -58,4 +58,4 @@
 
 * 最后，[隋卞也去了](https://www.bilibili.com/video/BV1kM4y187Va/?spm_id_from=333.337.search-card.all.click)是不是也是美食鉴赏能力不行，还是脑子有病？如果说人家美食up为了工作，那[谭Sir也去了](https://search.bilibili.com/all?keyword=%E8%B0%ADsir%E6%B7%84%E5%8D%9A&from_source=webtop_search&spm_id_from=333.788&search_source=5)，跟粉丝互动的也很开心，他也脑瘫呗？
 
-还是那句话，没碍着你就别当自己更高贵去说别人。官方也无法保证做到尽善尽美，不去因噎废食把它做到更好有什么错吗？
+还是那句话，没碍着你就别当自己更高贵去说别人。
